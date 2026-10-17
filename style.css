@@ -108,3 +108,7 @@ nav a.btn { color: var(--white); }
 .form.direct .btn-ghost:hover { color: var(--white); }
 
 .h1-sub { display: block; font-size: .5em; font-weight: 500; font-style: italic; color: var(--gold); margin-top: .15em; }
+
+.hero { position: relative; overflow: hidden; padding-bottom: clamp(190px, 27vw, 350px); }
+.hero::before { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: clamp(150px, 24vw, 300px); background: url("images/palais.svg") center bottom / min(1100px, 150%) auto no-repeat; opacity: .5; pointer-events: none; }
+.hero > .wrap { position: relative; z-index: 1; }

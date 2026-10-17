@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" fill="none" stroke="#14213d" stroke-width="2" stroke-linejoin="round" role="img" aria-label="Illustration stylisée d'un palais de justice">
+<g fill="#14213d" fill-opacity=".10">
+<path d="M90 112 L600 14 L1110 112 Z"/>
+<rect x="90" y="112" width="1020" height="14"/>
+<rect x="150" y="120" width="34" height="150" rx="3"/><rect x="144" y="112" width="46" height="10"/><rect x="144" y="268" width="46" height="10"/><rect x="265" y="120" width="34" height="150" rx="3"/><rect x="259" y="112" width="46" height="10"/><rect x="259" y="268" width="46" height="10"/><rect x="380" y="120" width="34" height="150" rx="3"/><rect x="374" y="112" width="46" height="10"/><rect x="374" y="268" width="46" height="10"/><rect x="495" y="120" width="34" height="150" rx="3"/><rect x="489" y="112" width="46" height="10"/><rect x="489" y="268" width="46" height="10"/><rect x="610" y="120" width="34" height="150" rx="3"/><rect x="604" y="112" width="46" height="10"/><rect x="604" y="268" width="46" height="10"/><rect x="725" y="120" width="34" height="150" rx="3"/><rect x="719" y="112" width="46" height="10"/><rect x="719" y="268" width="46" height="10"/><rect x="840" y="120" width="34" height="150" rx="3"/><rect x="834" y="112" width="46" height="10"/><rect x="834" y="268" width="46" height="10"/><rect x="955" y="120" width="34" height="150" rx="3"/><rect x="949" y="112" width="46" height="10"/><rect x="949" y="268" width="46" height="10"/>
+<rect x="70" y="278" width="1060" height="12"/>
+<rect x="50" y="290" width="1100" height="12"/>
+<rect x="30" y="302" width="1140" height="12"/>
+</g>
+<path d="M150 98 L600 32 L1050 98" stroke-opacity=".5"/>
+<circle cx="600" cy="72" r="22" stroke-opacity=".5"/>
+<path d="M0 326 H1200" stroke-opacity=".4"/>
+</svg>
