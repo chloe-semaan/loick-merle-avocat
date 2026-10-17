@@ -37,7 +37,8 @@ h3 { font-size: 1.5rem; }
 .site-header { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.95); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
 .bar { display: flex; align-items: center; justify-content: space-between; min-height: 64px; }
 .brand { font-family: var(--serif); font-size: 1.5rem; font-weight: 700; text-decoration: none; color: var(--navy); }
-.brand span { font-family: var(--sans); font-size: .72rem; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); margin-left: .4em; }
+.brand { line-height: 1.1; }
+.brand span { display: block; font-family: var(--sans); font-size: .62rem; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); margin-top: .2em; }
 nav { display: flex; align-items: center; gap: 1.6rem; }
 nav a { text-decoration: none; font-size: .95rem; font-weight: 500; }
 nav a:not(.btn):hover { color: var(--gold); }
