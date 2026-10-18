@@ -186,3 +186,5 @@ nav a.btn { color: var(--white); }
 .presentation .portrait { max-width: 230px; }
 .presentation .portrait img { outline: none; box-shadow: 0 12px 28px -14px rgba(20,33,61,.45); }
 @media (max-width: 820px) { .presentation { grid-template-columns: 1fr; } .presentation .portrait { max-width: 200px; } }
+
+.contact .contact-grid > div:first-child > p:not(.eyebrow) { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
