@@ -139,3 +139,10 @@ nav a.btn { color: var(--white); }
 .float-call { position: fixed; right: 16px; bottom: 16px; z-index: 20; background: var(--navy); color: var(--white); text-decoration: none; font-weight: 600; padding: .7em 1.2em; border-radius: 999px; box-shadow: 0 8px 20px -8px rgba(20,33,61,.6); }
 .float-call:hover { background: var(--gold); }
 @media (max-width: 420px) { .cards, .cards.two { grid-template-columns: 1fr; } }
+
+.contact .form.direct { align-self: center; padding: 1.6rem 1.8rem; gap: .8rem; }
+.contact .form.direct p { color: var(--muted); font-size: .95rem; }
+.contact .form.direct .btn-ghost { color: var(--navy); }
+.contact .form.direct .btn-ghost:hover { color: var(--white); }
+.float-call { background: var(--gold); border: 2px solid var(--white); }
+.float-call:hover { background: var(--navy); }
