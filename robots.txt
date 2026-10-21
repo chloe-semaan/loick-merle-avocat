@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chloe-semaan.github.io/loick-merle-avocat/sitemap.xml
